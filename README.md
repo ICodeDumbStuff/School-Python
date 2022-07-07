@@ -1,5 +1,5 @@
 # School-Python
 Hello, good for sharing stuffs
 
-# Want to use soemthing from here?
+# Want to use something from here?
 Please link my github if you use code from here!
