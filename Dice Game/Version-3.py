@@ -26,7 +26,7 @@ def debug(debugmsg):
 
 
 def setName(playnum, playname):
-    if playname == "" or playername == " ":
+    if playname == "" or playname == " ":
         playname = f"Player {playnum}"
     if playnum == 1:
         p1.name = playname
