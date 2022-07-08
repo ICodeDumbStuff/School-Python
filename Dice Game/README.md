@@ -1,3 +1,3 @@
-# Version Info
+# Dice Game
 
-🟡V3 - Active Developing (as of updating) - Works well
+*Add information*
